@@ -1,9 +1,13 @@
 # sketch.ddraffft.in
+
+<kbd><img src='https://blog.ddraffft.in/assets/favicons/favicon-196x196.png'/></kbd>
+
 A simple jekyll powered Photography Portfolio.
 
 [![Issues](https://img.shields.io/github/issues/Navneet-Suresh/sketch.ddraffft.in.svg?style=flat-square)](https://github.com/Navneet-Suresh/navneet-suresh.github.io/issues/?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link) [![License](https://img.shields.io/github/license/Navneet-Suresh/sketch.ddraffft.in.svg?style=flat-square)](https://github.com/Navneet-Suresh/navneet-suresh.github.io/blob/master/LICENSE.md?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link)
 
 <h2 id='Repo-Highlights'>Highlights:</h2>
+
 1. Easy setup and you get a site of your own for __free__.
 2. To add new pictures, you need to just upload them. __No code__ changes required.
 3. This I like the most, you get to see EXIF data like __aperture, shutter speed, iso__ etc when you click on any image automagically.
