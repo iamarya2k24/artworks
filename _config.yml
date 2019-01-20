@@ -5,15 +5,15 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-91168140-2"
 
 # UI configs
-title: "Photography by Navneethakrishnan"
-subtitle: "My photography collection"
+title: "Sketch by Navneethakrishnan"
+subtitle: "My sketches collection"
 author: "Navneethakrishnan"
 header:
- title: "Photography"
+ title: "Sketches"
  subtitle: "by Navneet"
 footer:
  name: "Hey there, my name is Navneet"
- bio: "Autodidact, Photographer, SysAdmin, Football Fanatic"
+ bio: "Autodidact, Photographer, SysAdmin, Football Fanatic, Artist"
 web_design: "By AJ"
 social_urls:
   facebook: "https://www.facebook.com/clickme.dng"
