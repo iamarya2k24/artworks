@@ -1,7 +1,7 @@
-# photography.ddraffft.in
+# sketch.ddraffft.in
 A simple jekyll powered Photography Portfolio.
 
-[![Issues](https://img.shields.io/github/issues/Navneet-Suresh/photography.svg?style=flat-square)](https://github.com/Navneet-Suresh/navneet-suresh.github.io/issues/?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link) [![License](https://img.shields.io/github/license/Navneet-Suresh/photography.svg?style=flat-square)](https://github.com/Navneet-Suresh/navneet-suresh.github.io/blob/master/LICENSE.md?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link)
+[![Issues](https://img.shields.io/github/issues/Navneet-Suresh/sketch.ddraffft.in.svg?style=flat-square)](https://github.com/Navneet-Suresh/navneet-suresh.github.io/issues/?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link) [![License](https://img.shields.io/github/license/Navneet-Suresh/sketch.ddraffft.in.svg?style=flat-square)](https://github.com/Navneet-Suresh/navneet-suresh.github.io/blob/master/LICENSE.md?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link)
 
 <h2 id='Repo-Highlights'>Highlights:</h2>
 1. Easy setup and you get a site of your own for __free__.
@@ -20,7 +20,7 @@ it's hosted by GitHub for __free__.
 3. Upload your pictures to `images/fulls` and `images/thumbs` directory. _You can do that on github.com itself or you can clone and push the images to your repo._
 4. Add your own custom domain in `CNAME` file or just remove the file if you don't own a domain and use the default domain that github provides ([yourusername].github.io/photography).
 5. Update `baseurl` field in `_config.yml` file with whatever domain you used in step 4.
-6. And that's it, your website is set. To view, go to [photography.rampatra.com](http://photography.rampatra.com) (or whatever you have in the CNAME file) and if you don't have one, you can go to [[yourusername].github.io/photography](http://yourusername.github.io/photography)
+6. And that's it, your website is set. To view, go to [sketch.ddraffft.in](https://sketch.ddraffft.in) (or whatever you have in the CNAME file) and if you don't have one, you can go to [[yourusername].github.io/photography](http://yourusername.github.io/photography)
 
 And of course, you don't want my name at the bottom to show up. You can change it in `_config.yml` file as well as few other settings like your google analytics etc.
  
