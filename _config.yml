@@ -1,0 +1,24 @@
+# Base configs
+baseurl: "https://photography.ddraffft.in"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: "UA-91168140-2"
+
+# UI configs
+title: "Photography by Navneethakrishnan"
+subtitle: "My photography collection"
+author: "Navneethakrishnan"
+header:
+ title: "Photography"
+ subtitle: "by Navneet"
+footer:
+ name: "Hey there, my name is Navneet"
+ bio: "Autodidact, Photographer, SysAdmin, Football Fanatic"
+web_design: "By AJ"
+social_urls:
+  facebook: "https://www.facebook.com/clickme.dng"
+  twitter: "https://www.twitter.com/clickme_exe"
+  instagram: "https://www.instagram.com/nav.kris"
+  dribbble: "https://dribbble.com/navneethakrishnan"
+  linkedin: "https://in.linkedin.com/in/navneethakrishnan"
+  github: "https://www.github.com/navneet-suresh"
