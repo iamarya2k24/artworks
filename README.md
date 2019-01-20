@@ -4,7 +4,7 @@
 
 A simple jekyll powered Photography Portfolio.
 
-[![Issues](https://img.shields.io/github/issues/Navneet-Suresh/sketch.ddraffft.in.svg?style=flat-square)](https://github.com/Navneet-Suresh/navneet-suresh.github.io/issues/?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link) [![License](https://img.shields.io/github/license/Navneet-Suresh/sketch.ddraffft.in.svg?style=flat-square)](https://github.com/Navneet-Suresh/navneet-suresh.github.io/blob/master/LICENSE.md?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link)
+[![Issues](https://img.shields.io/github/issues/Navneet-Suresh/sketch.ddraffft.in.svg?style=flat-square)](https://github.com/Navneet-Suresh/sketch.ddraffft.in/issues?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link) [![License](https://img.shields.io/github/license/Navneet-Suresh/sketch.ddraffft.in.svg?style=flat-square)](https://github.com/Navneet-Suresh/sketch.ddraffft.in/blob/master/LICENSE?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link)
 
 <h2 id='Repo-Highlights'>Highlights:</h2>
 
@@ -29,6 +29,7 @@ it's hosted by GitHub for __free__.
 And of course, you don't want my name at the bottom to show up. You can change it in `_config.yml` file as well as few other settings like your google analytics etc.
  
 <h2 id='protips'>ProTips</h2>
+
 I have made this as an [npm](https://www.npmjs.com) package with [gulp](http://gulpjs.com/) to __automate image resizing
 and thumbnail generation__. So if you're lazy like me then you can just do the following before you push your images to github.
 
@@ -40,9 +41,13 @@ and thumbnail generation__. So if you're lazy like me then you can just do the f
 6. Push your changes to github.com by `$ git add --all` and `$ git commit -m "a nice commit message"` and then finally `$ git push origin master`
 
 <h3 id='contact'>Contact Form</h3>
+
 You can make the contact form work without the need of any server-side code. Just follow this [article on github](https://github.com/dwyl/html-form-send-email-via-google-script-without-server) which uses a simple google script to send emails or to upload to a google spreadsheet when someone submits the form.
 
+Or you can use service like **[Formspree](https://formspree.io)**
+
 <h2 id='credits'> Credits</h2>
+
 Thanks to [AJ](https://twitter.com/ajlkn) for the website template which I([Ram Patra](https://github.com/rampatra/photography)) enhanced for [jekyll](http://jekyllrb.com/).
 
 
