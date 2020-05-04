@@ -1,20 +1,19 @@
 # Base configs
-baseurl: "https://b10g.navnee.tk"
+baseurl: "https://i.navnee.tk/artworks/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: ""
 
 # UI configs
-title: "Sketch by Navneethakrishnan"
-subtitle: "My Artwork Collection"
+title: "Navneet's Art Collection"
+subtitle: "Ranging from Anime. Celebs, Nature..."
 author: "Navneethakrishnan"
 header:
- title: "Art"
- subtitle: "by Navneet"
+ title: "Navneet's Art Collection"
+ subtitle: "Ranging from Anime. Celebs, Nature..."
 footer:
  name: "Hey there, my name is Navneet"
- bio: "N00b Photographer, Linux SysAdmin, Football Fanatic, Artist"
-web_design: "By AJ"
+ bio: "Hobby Artist"
+web_design: "By AJ and Jekylled by Ram Patra"
 social_urls:
   instagram: "https://www.instagram.com/nav.kris"
   dribbble: "https://dribbble.com/navneethakrishnan"
