@@ -1,8 +1,6 @@
 # My Sketches/Artworks.
 
-A simple jekyll powered Photography Portfolio.
-
-[![Issues](https://img.shields.io/github/issues/Navneet-Suresh/sketch.ddraffft.in.svg?style=flat-square)](https://github.com/Navneet-Suresh/sketch.ddraffft.in/issues?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link) [![License](https://img.shields.io/github/license/Navneet-Suresh/sketch.ddraffft.in.svg?style=flat-square)](https://github.com/Navneet-Suresh/sketch.ddraffft.in/blob/master/LICENSE?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link)
+A simple jekyll powered Photography/Art Portfolio.
 
 <h2 id='Repo-Highlights'>Highlights:</h2>
 
