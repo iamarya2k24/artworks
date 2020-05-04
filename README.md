@@ -1,4 +1,4 @@
-# sketch.ddraffft.in
+# My Sketches/Artworks.
 
 <kbd><img src='https://blog.ddraffft.in/assets/favicons/favicon-196x196.png'/></kbd>
 
