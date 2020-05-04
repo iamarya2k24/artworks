@@ -1,6 +1,6 @@
 # My Sketches/Artworks.
 
-<kbd><img src='https://blog.ddraffft.in/assets/favicons/favicon-196x196.png'/></kbd>
+<kbd><img src='https://navneet-suresh.github.io/assets/favicons/favicon-196x196.png'/></kbd>
 
 A simple jekyll powered Photography Portfolio.
 
