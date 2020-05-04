@@ -1,23 +1,21 @@
 # Base configs
-baseurl: "https://photography.ddraffft.in"
+baseurl: "https://b10g.navnee.tk"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-91168140-2"
+google_analytics: ""
 
 # UI configs
 title: "Sketch by Navneethakrishnan"
-subtitle: "My sketches collection"
+subtitle: "My Artwork Collection"
 author: "Navneethakrishnan"
 header:
- title: "Sketches"
+ title: "Art"
  subtitle: "by Navneet"
 footer:
  name: "Hey there, my name is Navneet"
- bio: "Autodidact, Photographer, SysAdmin, Football Fanatic, Artist"
+ bio: "N00b Photographer, Linux SysAdmin, Football Fanatic, Artist"
 web_design: "By AJ"
 social_urls:
-  facebook: "https://www.facebook.com/clickme.dng"
-  twitter: "https://www.twitter.com/clickme_exe"
   instagram: "https://www.instagram.com/nav.kris"
   dribbble: "https://dribbble.com/navneethakrishnan"
   linkedin: "https://in.linkedin.com/in/navneethakrishnan"
