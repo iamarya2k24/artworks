@@ -5,14 +5,14 @@ image_thumbs_loc: "/images/thumbs"
 
 # UI configs
 title: "Navneet's Art Collection"
-subtitle: "Beep, Boop ..."
+subtitle: "Hello!"
 author: "Navneethakrishnan"
 header:
  title: "Navneet's Art Collection"
- subtitle: "Beep, Boop ..."
+ subtitle: "Hello!"
 footer:
  name: "Hey there, my name is Navneet"
- bio: "Hobby Artist"
+ bio: "I like to draw Anime, Birds anything that gets my interest."
 web_design: "By AJ and Jekylled by Ram Patra"
 social_urls:
   instagram: "https://www.instagram.com/nav.kris"
