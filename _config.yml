@@ -5,11 +5,11 @@ image_thumbs_loc: "/images/thumbs"
 
 # UI configs
 title: "Navneet's Art Collection"
-subtitle: "Hello!"
+subtitle: ""
 author: "Navneethakrishnan"
 header:
  title: "Navneet's Art Collection"
- subtitle: "Hello!"
+ subtitle: "Anime, Birbs and more"
 footer:
  name: "Hey there, my name is Navneet"
  bio: "I like to draw Anime, Birds anything that gets my interest."
